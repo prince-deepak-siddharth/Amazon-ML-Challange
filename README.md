@@ -1,7 +1,6 @@
 # Amazon ML Challenge 2025 — Smart Product Pricing  
 ### Team: The_Predictors  
 **Members:** Prince Deepak Siddharth, Vishal Painjane, Samhita Mandal, Yash Patil  
-**Submission Date:** 13-10-2025
 
 ---
 

@@ -1,13 +1,6 @@
-# Amazon ML Challenge 2025 — Smart Product Pricing
+# Amazon ML Challenge 2025 — Smart Product Pricing Engine
 
 ### Team: **The_Predictors**
-
-| Member | Role |
-|--------|------|
-| Prince Deepak Siddharth | Lead — Architecture, Training & Ensembling |
-| Vishal Painjane | Data Engineering & Feature Extraction |
-| Samhita Mandal | Model Experimentation & Validation |
-| Yash Patil | Image Pipeline & Inference |
 
 ---
 
